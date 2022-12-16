@@ -9,7 +9,7 @@ setup(name='wdpassport_utils',
       license='GPLv2',
       install_requires=[
         'pyudev',
-        'py_sg @ git+https://github.com/crypto-universe/py_sg',
+        'py_sg @ git+https://github.com/crypto-universe/py3_sg',
       ],
       scripts=['wdpassport-utils.py'],
       )
